@@ -42,6 +42,16 @@ h2 {
   margin-left: 100px;
   margin-right: 100px;
 }
+.sheCodes {
+    max-width: 75%;
+    display: block;
+    margin: auto;
+    padding: 30px;
+}
+footer{
+    font-size: 40px;
+    text-align: center;
+}
 a {
   color: var(--secondary-color);
 }

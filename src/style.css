@@ -32,8 +32,8 @@ h2 {
 .needsBorder {
   border: 3px solid var(--secondary-color);
 }
-.where{
-    color: var(--third-color);
+.where {
+  color: var(--third-color);
 }
 .phoneNumber {
   font-family: var(--popins-text);
@@ -43,14 +43,14 @@ h2 {
   margin-right: 100px;
 }
 .sheCodes {
-    max-width: 75%;
-    display: block;
-    margin: auto;
-    padding: 30px;
+  max-width: 75%;
+  display: block;
+  margin: auto;
+  padding: 30px;
 }
-footer{
-    font-size: 40px;
-    text-align: center;
+footer {
+  font-size: 40px;
+  text-align: center;
 }
 a {
   color: var(--secondary-color);
